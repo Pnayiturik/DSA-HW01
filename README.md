@@ -7,19 +7,18 @@ This project demonstrates how to process a file containing integers, remove dupl
 1. **Clone the Repository:**
 
     ```
-    git clone https://github.com/Pnayiturik/yourrepository.git
+    git clone https://github.com/Pnayiturik/DSA-HW02.git
     cd DSA-HW02
     ```
 
 2. **Run the Script:**
 
-    Execute the Python script `process_file.py` with the following command:
+    Execute the Python script `UniqueInt.py` with the following command:
 
-    ```
-    python process_file.py input_file_path output_file_path
-    ```
+   
 
-    Replace `input_file_path` with the path to your input file and `output_file_path` with the desired path for the output file.
+    by replacing `input_file_path` with the path to your input file and `output_file_path` with the desired path for the output file.
+    you can check for other samples
 
     For example:
 
@@ -27,11 +26,14 @@ This project demonstrates how to process a file containing integers, remove dupl
     python process_file.py results_for_sample_inputs/small_sample_input_01.txt_result.txt sample_input_for_students/small_sample_input_01.txt
     ```
 
-3. **Output:**
+4. **Output:**
 
     The script will process the input file, remove duplicate integers, and sort the unique integers in ascending order. The sorted integers will be written to the specified output file.
 
     You will see a message indicating that the unique integers have been written to the output file.
+   ```
+    in case you want to write them to the output file
+    ```
 
 ## Implementation Details
 
