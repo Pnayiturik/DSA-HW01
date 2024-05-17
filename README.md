@@ -47,6 +47,4 @@ This project demonstrates how to process a file containing integers, remove dupl
 - This project is designed to handle small to moderate-sized input files containing integers within the range [-1023, 1023].
 - The custom sorting algorithm (bubble sort) used in this project may not be efficient for large datasets.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
