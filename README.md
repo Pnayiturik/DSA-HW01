@@ -7,8 +7,8 @@ This project demonstrates how to process a file containing integers, remove dupl
 1. **Clone the Repository:**
 
     ```
-    git clone https://github.com/Pnayiturik/DSA-HW02.git
-    cd DSA-HW02
+    git clone https://github.com/Pnayiturik/DSA-HW01.git
+    cd DSA-HW01
     ```
 
 2. **Run the Script:**
